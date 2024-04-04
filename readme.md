@@ -1,15 +1,15 @@
-### React Toastify
-React Toastify is a React library that allows you to create toast notifications in your React application.
+### toaster
+toaster is a React library that allows you to create toast notifications in your React application.
 
 ### Installation
-To install React Toastify, you can use npm. Here is an example of how to install React Toastify using npm:
+To install toaster, you can use npm. Here is an example of how to install toaster using npm:
 ```bash
-npm install react-toastify
+npm install toaster
 ```
 ### Usage
-To use React Toastify, you need to import the ToastContainer component from the react-toastify package. Here is an example of how to use React Toastify in your React application:
+To use toaster, you need to import the ToastContainer component from the toaster package. Here is an example of how to use toaster in your React application:
 ```jsx
-import Alert from 'react-toastify';
+import Alert from 'toaster';
 
 const App = () => {
   return (

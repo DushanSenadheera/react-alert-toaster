@@ -1,5 +1,5 @@
 {
-  "name": "react-toastify",
+  "name": "toaster",
   "version": "1.0.1",
   "description": "react alert toaster",
   "main": "index.js",
