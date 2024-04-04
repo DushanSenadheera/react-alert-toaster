@@ -1,15 +1,15 @@
-### toaster
-toaster is a React library that allows you to create toast notifications in your React application.
+### react-alert-toaster
+react-alert-toaster is a React library that allows you to create toast notifications in your React application.
 
 ### Installation
-To install toaster, you can use npm. Here is an example of how to install toaster using npm:
+To install react-alert-toaster, you can use npm. Here is an example of how to install react-alert-toaster using npm:
 ```bash
-npm install toaster
+npm install react-alert-toaster
 ```
 ### Usage
-To use toaster, you need to import the ToastContainer component from the toaster package. Here is an example of how to use toaster in your React application:
+To use react-alert-toaster, you need to import the ToastContainer component from the react-alert-toaster package. Here is an example of how to use react-alert-toaster in your React application:
 ```jsx
-import Alert from 'toaster';
+import Alert from 'react-alert-toaster';
 
 const App = () => {
   return (
