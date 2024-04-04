@@ -1,15 +1,17 @@
 {
   "name": "react-toastify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react alert toaster",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react",
-  "toast",
-  "alert",
-  "notification"],
+  "keywords": [
+    "react",
+    "toast",
+    "alert",
+    "notification"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
