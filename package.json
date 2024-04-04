@@ -1,6 +1,6 @@
 {
   "name": "react-alert-toaster",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react alert toaster",
   "main": "index.js",
   "scripts": {
